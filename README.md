@@ -47,6 +47,8 @@
 
 ```sh
     bash fack-TOOL.sh
+```sh
+python fack-TOOL.py
 ```
 <hr>
 
