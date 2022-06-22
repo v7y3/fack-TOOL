@@ -1,16 +1,15 @@
 <h1 align="center"> <i> PPhish </i> </h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55555800/93633798-26964300-f9b5-11ea-9b7b-db5f740d4a6a.gif" alt="PREVIEW" align="center">
+  <img src="" alt="PREVIEW" align="center">
 </p>
 <hr>
 
 ![version]
 ![Tested]
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/th3pr3d4t0r)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55555800/93633128-fa42ec80-f9dd-11ea-9307-1d4ccbbd0a6f.png" alt="PREVIEW"  align="center">
+  <img src="" alt="PREVIEW"  align="center">
 </p>
 
  * <b>Ngrok</b>: install.sh instalará automáticamente en cualquier arquitectura, adicionalmente cuente con SSH
@@ -22,11 +21,10 @@
 <hr>
 
 # Email Spoofing:
-<img src="https://user-images.githubusercontent.com/55555800/94054596-5eddbd00-fdcb-11ea-9eaa-57a034152e97.png" alt="PREVIEW"  align="center">
+<img src=" alt="PREVIEW"  align="center">
 
 ### Resultado de Gmail:
-<img src="https://user-images.githubusercontent.com/55555800/93635113-59d9d180-f9b7-11ea-813d-55b0cc2a1482.jpg" alt="PREVIEW" align="center" width="350px" height="600px">
-
+<img src=
 # Install:
 <br>
 
